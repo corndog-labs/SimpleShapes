@@ -1,4 +1,4 @@
-//-- SimpleShapes by Scott Kildall
+//-- SimpleShapes by Courtney Crother
 //-- Sample P5.js Sketch for drawing things!
 
 
